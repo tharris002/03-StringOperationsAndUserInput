@@ -30,7 +30,7 @@
 
 ###############################################################################
 # TODO: 2. (5 pt)
-#   Now you might be thinking, why didn't we just use concatenation to dothis?
+#   Now you might be thinking, why didn't we just use concatenation to do this?
 #   Isn't it just the same thing?
 #
 #   Well, what if we have a number (of type int) that we want to include in a
